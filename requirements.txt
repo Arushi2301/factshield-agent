@@ -1,0 +1,3 @@
+cat > requirements.txt << 'EOF'
+google-adk
+EOF

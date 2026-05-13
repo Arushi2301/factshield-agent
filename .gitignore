@@ -1,0 +1,4 @@
+factshield_agent/.env
+__pycache__/
+*.pyc
+.adk/
